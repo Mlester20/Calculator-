@@ -12,5 +12,5 @@ function deleteLast() {
 }
 
 function calculate() {
-    document.getElementById('display').value = 'I MISS YOU:(';
+    document.getElementById('display').value = 'Pak U Bro:)';
 }
