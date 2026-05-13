@@ -12,5 +12,5 @@ function deleteLast() {
 }
 
 function calculate() {
-    document.getElementById('display').value = 'Fuck you bro';
+    document.getElementById('display').value = 'Miss ko na sya:(';
 }
