@@ -12,5 +12,5 @@ function deleteLast() {
 }
 
 function calculate() {
-    document.getElementById('display').value = 'Miss ko na sya:(';
+    document.getElementById('display').value = 'Pak u bro';
 }
